@@ -1,0 +1,22 @@
+Microsoft (R) Build Engine version 17.0.0+c9eb9dd64 for .NET
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+/Users/adaily/bin/dotnet/Program.cs(4,39): error CS1002: ; expected [/Users/adaily/bin/dotnet/dotnet.csproj]
+/Users/adaily/bin/dotnet/Program.cs(5,39): error CS1002: ; expected [/Users/adaily/bin/dotnet/dotnet.csproj]
+/Users/adaily/bin/dotnet/Program.cs(6,39): error CS1002: ; expected [/Users/adaily/bin/dotnet/dotnet.csproj]
+/Users/adaily/bin/dotnet/Program.cs(7,39): error CS1002: ; expected [/Users/adaily/bin/dotnet/dotnet.csproj]
+/Users/adaily/bin/dotnet/Program.cs(8,39): error CS1002: ; expected [/Users/adaily/bin/dotnet/dotnet.csproj]
+
+Build FAILED.
+
+/Users/adaily/bin/dotnet/Program.cs(4,39): error CS1002: ; expected [/Users/adaily/bin/dotnet/dotnet.csproj]
+/Users/adaily/bin/dotnet/Program.cs(5,39): error CS1002: ; expected [/Users/adaily/bin/dotnet/dotnet.csproj]
+/Users/adaily/bin/dotnet/Program.cs(6,39): error CS1002: ; expected [/Users/adaily/bin/dotnet/dotnet.csproj]
+/Users/adaily/bin/dotnet/Program.cs(7,39): error CS1002: ; expected [/Users/adaily/bin/dotnet/dotnet.csproj]
+/Users/adaily/bin/dotnet/Program.cs(8,39): error CS1002: ; expected [/Users/adaily/bin/dotnet/dotnet.csproj]
+    0 Warning(s)
+    5 Error(s)
+
+Time Elapsed 00:00:01.25
